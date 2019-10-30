@@ -8,4 +8,5 @@ column0 | column1 | column2 | column3 | column4 | column5 | column6
 0 | 1 | 1 | 1 | 1 | 1 | 1
 1 | 2 | 3 | 4 | 5 | 6 | 7
 1 | 3 | 6 | 10 | 15 | 21 | 28
+
 最后就是答案28
